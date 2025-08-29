@@ -192,24 +192,3 @@ figure:nth-of-type(4) {
   display: inline-block;
   margin-right: 5px;
 }
-
-/* footer */
-footer {
-  position: fixed;
-  bottom: 50px;
-  right: 50px;
-  display: flex;
-}
-
-footer ul {
-  list-style: none;
-  display: flex;
-}
-
-footer ul li {
-  margin: 0 5px;
-}
-
-footer a {
-  color: black;
-}
